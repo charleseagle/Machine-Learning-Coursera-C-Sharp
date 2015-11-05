@@ -1,0 +1,8 @@
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe.config
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csprojResolveAssemblyReference.cache
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\bin\Debug\LinearRegression.exe
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\bin\Debug\LinearRegression.pdb
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.exe
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.pdb
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.Form2.resources
+E:\Machine learning\Week_2\C#\LinearRegression\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.Cache
